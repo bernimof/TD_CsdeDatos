@@ -1,6 +1,6 @@
 # Portafolio de Ciencia de Datos 
 
-## 🇨🇱 Descripción del repositorio
+## 🇨🇱 🇪🇸 Descripción del repositorio
 Este repositorio contiene ejercicios, casos prácticos y análisis desarrollados durante el programa de
 **Ciencia de Datos – Talento Digital (2025–2026)**.
 
@@ -11,7 +11,7 @@ manipulación de información, utilizando herramientas ampliamente utilizadas en
 
 # Data Science Portfolio
 
-## 🇺🇸 Repository description
+## 🇺🇸 🇬🇧 Repository description
 This repository contains exercises, practical cases, and data analyses developed during the
 **Data Science Program – Talento Digital (2025–2026)**.
 
