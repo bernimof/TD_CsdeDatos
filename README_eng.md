@@ -5,4 +5,4 @@ Each folder contains a case study or activity developed during the bootcamp.
 Python, Numpy, Pandas.
 
 ## Author
-Bernardita Ortega
+Bernardita Ortega.
