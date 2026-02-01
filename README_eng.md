@@ -1,5 +1,5 @@
 ## Project Overview
-In each folder you can find the code associated with the bootcamp activity.
+Each folder contains a case study or activity developed during the bootcamp.
 
 ## Tools Used
 Python, Numpy, Pandas.
