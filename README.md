@@ -13,5 +13,5 @@ El objetivo es evidenciar habilidades de análisis, limpieza y manipulación de 
 
 ## Autor
 Bernardita Ortega  
-LinkedIn: https://www.linkedin.com/in/bernarditaortega
+LinkedIn: https://www.linkedin.com/in/bernarditaortega  
 GitHub: https://github.com/bernimof
