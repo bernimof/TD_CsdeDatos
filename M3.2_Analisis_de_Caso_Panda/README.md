@@ -2,7 +2,7 @@
 
 ---
 
-## 🇨🇱 Descripción del módulo
+## 🇨🇱 🇪🇸 Descripción del módulo
 
 Este módulo contiene un caso práctico de análisis de datos desarrollado utilizando la librería
 **Pandas** en Python. El objetivo principal es aplicar técnicas de carga, limpieza, transformación
@@ -14,7 +14,7 @@ posibles oportunidades de mejora.
 
 ---
 
-## 🇺🇸 Module description
+## 🇺🇸 🇬🇧 Module description
 
 This module contains a practical data analysis case developed using the **Pandas** library in Python.
 The main objective is to apply data loading, cleaning, transformation, and exploratory data analysis
