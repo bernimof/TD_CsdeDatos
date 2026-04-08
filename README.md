@@ -3,7 +3,7 @@
 ## 🇨🇱 🇪🇸 Descripción del repositorio
 Este repositorio contiene ejercicios, casos prácticos y análisis desarrollados durante el programa de **Ciencia de Datos – Talento Digital (2025–2026)**.
 
-El objetivo principal es evidenciar competencias en análisis de datos, limpieza, transformación y manipulación de datos, utilizando herramientas ampliamente utilizadas en entornos profesionales.
+El objetivo principal es evidenciar competencias en ciencia de datos, limpieza, transformación y manipulación de datos, utilizando herramientas ampliamente utilizadas en entornos profesionales.
 
 ## 📁 Proyectos
 
